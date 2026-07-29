@@ -26,5 +26,5 @@ BOARD_CUSTOM_BOOTIMG_MK := hardware/samsung/mkbootimg.mk
 TARGET_CUSTOM_DTBTOOL := dtbhtoolExynos
 
 # Kernel
-TARGET_KERNEL_SOURCE := kernel/samsung/exynos7580-common
+TARGET_KERNEL_SOURCE := kernel/samsung/gvwifi
 BOARD_KERNEL_IMAGE_NAME := Image
