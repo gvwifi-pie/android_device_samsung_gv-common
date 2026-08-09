@@ -16,7 +16,7 @@
 #
 
 # Inherit from Exynos7580-common
-include device/samsung/exynos7580-common/BoardConfigCommon.mk
+include device/samsung/universal7580-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/samsung/gv-common
 
