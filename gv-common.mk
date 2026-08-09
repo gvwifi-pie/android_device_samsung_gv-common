@@ -15,8 +15,8 @@
 # limitations under the License.
 #
 
-# Inherit from Exynos7580-common
-$(call inherit-product, device/samsung/exynos7580-common/device-common.mk)
+# Inherit from 7580-common
+$(call inherit-product, device/samsung/universal7580-common/device-common.mk)
 
 LOCAL_PATH := device/samsung/gv-common
 
